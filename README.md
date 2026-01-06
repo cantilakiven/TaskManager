@@ -1,4 +1,4 @@
-🚀 Getting Started
+Getting Started
 Clone and Install:
 
 Bash
@@ -25,7 +25,7 @@ Components: shadcn/ui
 
 Language: TypeScript
 
-📁 Project Structure
+Project Structure
 src/components/* — Reusable UI components.
 
 src/pages/* — Main application views.
